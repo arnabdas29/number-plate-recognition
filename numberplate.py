@@ -83,5 +83,3 @@ def number_plate_verify(number_plate):
         if(check!=4):
             #print("\nError 404.....:(")
             return '0'
-
-print(number_plate_verify("PY02N1a"))
